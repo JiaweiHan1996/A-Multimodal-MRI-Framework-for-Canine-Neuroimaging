@@ -1,0 +1,2 @@
+corndog_v3_atlas_cort+subcort.nii.gz
+corndog_v3_wm_atlas_manual.nii.gz

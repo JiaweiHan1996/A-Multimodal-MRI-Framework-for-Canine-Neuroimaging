@@ -1,0 +1,46 @@
+{
+	"Config_INFO":{
+        "Template":"D:\RCA_Project\48_DHC_dog\Evaluation\Input_data\BHRT_v202605\BHRT_T1w_0.5mm.nii",
+        "TPM":{
+            "GM_Path":"D:\RCA_Project\48_DHC_dog\Evaluation\Input_data\BHRT_v202605\BHRT_TPM_0.5mm.nii,2",
+            "WM_Path":"D:\RCA_Project\48_DHC_dog\Evaluation\Input_data\BHRT_v202605\BHRT_TPM_0.5mm.nii,3",
+            "CSF_Path":"D:\RCA_Project\48_DHC_dog\Evaluation\Input_data\BHRT_v202605\BHRT_TPM_0.5mm.nii,1"
+        },
+        "Mask":{
+        "Brain":"D:\UIH_fMRI_Proc_animal_V260424\config\mask\BrainMask.nii",
+        "WM":"D:\UIH_fMRI_Proc_animal_V260424\config\mask\WmMask.nii",
+        "CSF":"D:\UIH_fMRI_Proc_animal_V260424\config\mask\CsfMask.nii"
+        }
+    },
+	"Process_Type": "Prep",
+	"Import_INFO":{
+		"Start_Fun_Name": "FunRaw",
+		"Start_T1_Name": "T1Raw"
+	},
+	"Data_INFO":{
+		"TR": [],
+		"Snum": 1,
+		"Enum": 3,
+		"RefEcho": 1
+	},
+	"Process_INFO":{
+		"Step_H": {"Name": "DICOM_2_Nii", "Brain_Size_mm": 60},
+		"Step_T": {"Name": "Remove_First_n_Timepoints", "Del_Tps": 5},
+		"Step_A": {"Name": "Slice_Timing", "Slice_Order": [], "Ref_Slice": []},
+		"Step_R": {"Name": "Realign"},
+	    "Step_Cb": {"Name": "ME_Combine"},
+        "Step_C": {"Name": "Covs_Regressing",
+            "IsWholeBrain": 0,
+            "IsCSF": 1,
+            "IsWhiteMatter": 1,
+            "IsHeadMotion": 4,
+            "AddMean": 1
+        },
+        "Step_W": {"Name": "Normalize",
+                "IsDARTEL": 0,
+                "ResVoxelSize": [1.5, 1.5, 1.5]
+                },
+		"Step_D": {"Name": "Detrend"}
+	},
+	"Delete_Folder_INFO": []
+}
