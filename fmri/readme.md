@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-**Animals_fMRI_Proc_V20260920** is a preprocessing toolbox developed for animal fMRI analysis, supporting both single-echo and multi-echo data. It is designed to handle alignment between animal scan body positions and templates, as well as custom template analysis.
+**Animals_fMRI_Proc_V20260920** is a preprocessing toolbox developed for animal fMRI analysis, supporting both single-echo and multi-echo data. It is designed to handle alignment between animal scan body positions and templates, as well as custom template analysis. In particular, we would like to express our sincere gratitude to the developers of the DPABI and RESTplus toolboxes, from which the code in `fmri/preprocessing/basic` was primarily adapted, for providing robust and convenient functions that have greatly facilitated fMRI data preprocessing and analysis.
 
 ## 2. Installation
 
@@ -227,3 +227,9 @@ Each step is defined as a key-value pair. The key is the step ID (e.g., `Step_H`
 ---
 
 > **Note:** Before running the code, add the NIfTI_20140122 and SPM12 toolboxes to the MATLAB working path. This tool can rotate animal images from special body positions to the template standard position (including structural, functional, and diffusion images), and can perform origin alignment as needed. It supports dcm and nii(.gz) data formats.
+
+## Reference
+> Yan, Chao-Gan et al. “DPABI: Data Processing & Analysis for (Resting-State) Brain Imaging.” Neuroinformatics vol. 14,3 (2016): 339-51. doi:10.1007/s12021-016-9299-4
+> https://github.com/Chaogan-Yan/DPABI
+> Jia, Xi-Ze et al. “RESTplus: an improved toolkit for resting-state functional magnetic resonance imaging data processing.” Science bulletin vol. 64,14 (2019): 953-954. doi:10.1016/j.scib.2019.05.008
+> http://restfmri.net/forum/restplus
