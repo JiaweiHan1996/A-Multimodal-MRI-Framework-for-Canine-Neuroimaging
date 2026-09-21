@@ -230,6 +230,9 @@ Each step is defined as a key-value pair. The key is the step ID (e.g., `Step_H`
 
 ## Reference
 > Yan, Chao-Gan et al. “DPABI: Data Processing & Analysis for (Resting-State) Brain Imaging.” Neuroinformatics vol. 14,3 (2016): 339-51. doi:10.1007/s12021-016-9299-4
+
 > https://github.com/Chaogan-Yan/DPABI
-> Jia, Xi-Ze et al. “RESTplus: an improved toolkit for resting-state functional magnetic resonance imaging data processing.” Science bulletin vol. 64,14 (2019): 953-954. doi:10.1016/j.scib.2019.05.008
+
+>Jia, Xi-Ze et al. “RESTplus: an improved toolkit for resting-state functional magnetic resonance imaging data processing.” Science bulletin vol. 64,14 (2019): 953-954. doi:10.1016/j.scib.2019.05.008
+
 > http://restfmri.net/forum/restplus
