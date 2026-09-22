@@ -1,0 +1,14 @@
+11    lh_CN          LH_Cingulate
+12    rh_CN          RH_Cingulate
+21    lh_FR          LH_Frontal
+22    rh_FR          RH_Frontal
+31    lh_OC           LH_Occipital
+32    rh_OC           RH_Occipital
+41    lh_PR          LH_Parietal
+42    rh_PR          RH_Parietal
+51    lh_PS        LH_Temporal
+52    rh_PS        RH_Temporal
+61    lh_SM           LH_Sensory-motor
+62    rh_SM           RH_Sensory-motor
+71    lh_SUB        LH_Subcortical
+72    rh_SUB        RH_Subcortical

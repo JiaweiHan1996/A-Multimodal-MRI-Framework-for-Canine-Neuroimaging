@@ -1,0 +1,234 @@
+  1    lh_CN_FCM          LH_Cingulate_Calloso-marginal-fissure
+  2    rh_CN_FCM          RH_Cingulate_Calloso-marginal-fissure
+  3    lh_CN_G-II         LH_Cingulate_Genualis-gyrus-II
+  4    rh_CN_G-II         RH_Cingulate_Genualis-gyrus-II
+  5    lh_CN_G-I          LH_Cingulate_Genualis-gyrus-I
+  6    rh_CN_G-I          RH_Cingulate_Genualis-gyrus-I
+  7    lh_CN_LAD-II       LH_Cingulate_Limbica-anterior-dorsalis-II
+  8    rh_CN_LAD-II       RH_Cingulate_Limbica-anterior-dorsalis-II
+  9    lh_CN_LAD-I        LH_Cingulate_Limbica-anterior-dorsalis-I
+ 10    rh_CN_LAD-I        RH_Cingulate_Limbica-anterior-dorsalis-I
+ 11    lh_CN_LAL          LH_Cingulate_Limbica-anterior-lateralis
+ 12    rh_CN_LAL          RH_Cingulate_Limbica-anterior-lateralis
+ 13    lh_CN_LAV          LH_Cingulate_Limbica-anterior-ventralis
+ 14    rh_CN_LAV          RH_Cingulate_Limbica-anterior-ventralis
+ 15    lh_CN_LM           LH_Cingulate_Limbica-media
+ 16    rh_CN_LM           RH_Cingulate_Limbica-media
+ 17    lh_CN_LPD-II       LH_Cingulate_Limbica-posterior-dorsalis-II
+ 18    rh_CN_LPD-II       RH_Cingulate_Limbica-posterior-dorsalis-II
+ 19    lh_CN_LPD-I        LH_Cingulate_Limbica-posterior-dorsalis-I
+ 20    rh_CN_LPD-I        RH_Cingulate_Limbica-posterior-dorsalis-I
+ 21    lh_CN_LPL          LH_Cingulate_Limbica-posterior-lateralis
+ 22    rh_CN_LPL          RH_Cingulate_Limbica-posterior-lateralis
+ 23    lh_CN_LPV-II       LH_Cingulate_Limbica-posterior-ventralis-II
+ 24    rh_CN_LPV-II       RH_Cingulate_Limbica-posterior-ventralis-II
+ 25    lh_CN_LPV-I        LH_Cingulate_Limbica-posterior-ventralis-I
+ 26    rh_CN_LPV-I        RH_Cingulate_Limbica-posterior-ventralis-I
+ 27    lh_CN_SC-II        LH_Cingulate_Subcallosa-II
+ 28    rh_CN_SC-II        RH_Cingulate_Subcallosa-II
+ 29    lh_CN_SC-I         LH_Cingulate_Subcallosa-I
+ 30    rh_CN_SC-I         RH_Cingulate_Subcallosa-I
+ 31    lh_FR_FRh          LH_Frontal_Fissure-orbitalis
+ 32    rh_FR_FRh          RH_Frontal_Fissure-orbitalis
+ 33    lh_FR_ORB-II       LH_Frontal_Orbitalis-II
+ 34    rh_FR_ORB-II       RH_Frontal_Orbitalis-II
+ 35    lh_FR_ORB-I        LH_Frontal_Orbitalis-I
+ 36    rh_FR_ORB-I        RH_Frontal_Orbitalis-I
+ 37    lh_FR_PG-III       LH_Frontal_Pregenualis-III
+ 38    rh_FR_PG-III       RH_Frontal_Pregenualis-III
+ 39    lh_FR_PG-II        LH_Frontal_Pregenualis-II
+ 40    rh_FR_PG-II        RH_Frontal_Pregenualis-II
+ 41    lh_FR_PG-I         LH_Frontal_Pregenualis-I
+ 42    rh_FR_PG-I         RH_Frontal_Pregenualis-I
+ 43    lh_FR_POL          LH_Frontal_Polaris  
+ 44    rh_FR_POL          RH_Frontal_Polaris  
+ 45    lh_FR_PORD         LH_Frontal_Paraorbitalis-dorsalis
+ 46    rh_FR_PORD         RH_Frontal_Paraorbitalis-dorsalis
+ 47    lh_FR_PORV         LH_Frontal_Paraorbitalis-ventralis
+ 48    rh_FR_PORV         RH_Frontal_Paraorbitalis-ventralis
+ 49    lh_FR_PR           LH_Frontal_Prorealis
+ 50    rh_FR_PR           RH_Frontal_Prorealis
+ 51    lh_FR_PRL-II       LH_Frontal_Prorealis-lateralis-II
+ 52    rh_FR_PRL-II       RH_Frontal_Prorealis-lateralis-II
+ 53    lh_FR_PRL-I        LH_Frontal_Prorealis-lateralis-I
+ 54    rh_FR_PRL-I        RH_Frontal_Prorealis-lateralis-I
+ 55    lh_FR_SG           LH_Frontal_Subgenualis
+ 56    rh_FR_SG           RH_Frontal_Subgenualis
+ 57    lh_FR_SPR-II       LH_Frontal_Subprorealis-II
+ 58    rh_FR_SPR-II       RH_Frontal_Subprorealis-II
+ 59    lh_FR_SPR-I        LH_Frontal_Subprorealis-I
+ 60    rh_FR_SPR-I        RH_Frontal_Subprorealis-I
+ 61    lh_FR_SPRL-II      LH_Frontal_Subprorealis-lateralis-II
+ 62    rh_FR_SPRL-II      RH_Frontal_Subprorealis-lateralis-II
+ 63    lh_FR_SPRL-I       LH_Frontal_Subprorealis-lateralis-I
+ 64    rh_FR_SPRL-I       RH_Frontal_Subprorealis-lateralis-I
+ 65    lh_OC_BP           LH_Occipital_Entolateralis-posterior
+ 66    rh_OC_BP           RH_Occipital_Entolateralis-posterior
+ 67    lh_OC_FLO          LH_Occipital_Fissure-lateralis-Occipital
+ 68    rh_OC_FLO          RH_Occipital_Fissure-lateralis-Occipital
+ 69    lh_OC_FO           LH_Occipital_Fissure-suprasplenialis
+ 70    rh_OC_FO           RH_Occipital_Fissure-suprasplenialis
+ 71    lh_OC_FQP          LH_Occipital_Fissure-ectolateralis-posterior
+ 72    rh_OC_FQP          RH_Occipital_Fissure-ectolateralis-posterior
+ 73    lh_OC_FQ           LH_Occipital_Fissure-ectolateralis
+ 74    rh_OC_FQ           RH_Occipital_Fissure-ectolateralis
+ 75    lh_OC_FR           LH_Occipital_Fissure-retrospenialis
+ 76    rh_OC_FR           RH_Occipital_Fissure-retrospenialis
+ 77    lh_OC_FRc          LH_Occipital_Fissure-recurrentis
+ 78    rh_OC_FRc          RH_Occipital_Fissure-recurrentis
+ 79    lh_OC_FSSA         LH_Occipital_Fissure-suprasylviae-anterior
+ 80    rh_OC_FSSA         RH_Occipital_Fissure-suprasylviae-anterior
+ 81    lh_OC_FSp          LH_Occipital_Fissure-splenialis
+ 82    rh_OC_FSp          RH_Occipital_Fissure-splenialis
+ 83    lh_OC_MP           LH_Occipital_Marginalis-posterior
+ 84    rh_OC_MP           RH_Occipital_Marginalis-posterior
+ 85    lh_OC_O-II         LH_Occipital_Splenialis-II
+ 86    rh_OC_O-II         RH_Occipital_Splenialis-II
+ 87    lh_OC_O-I          LH_Occipital_Splenialis-I
+ 88    rh_OC_O-I          RH_Occipital_Splenialis-I
+ 89    lh_OC_ORL          LH_Occipital_Recurrens-lateralis
+ 90    rh_OC_ORL          RH_Occipital_Recurrens-lateralis
+ 91    lh_OC_ORM          LH_Occipital_Recurrens-medialis
+ 92    rh_OC_ORM          RH_Occipital_Recurrens-medialis
+ 93    lh_OC_OVL          LH_Occipital_Recurrens-ventralis-lateralis
+ 94    rh_OC_OVL          RH_Occipital_Recurrens-ventralis-lateralis
+ 95    lh_OC_OVM          LH_Occipital_Recurrens-ventralis-medialis
+ 96    rh_OC_OVM          RH_Occipital_Recurrens-ventralis-medialis
+ 97    lh_OC_QP           LH_Occipital_Ectolateralis-posterior
+ 98    rh_OC_QP           RH_Occipital_Ectolateralis-posterior
+ 99    lh_OC_R            LH_Occipital_Retrosplenialis
+100    rh_OC_R            RH_Occipital_Retrosplenialis
+101    lh_OC_SSM          LH_Occipital_Suprasylvian-medialis
+102    rh_OC_SSM          RH_Occipital_Suprasylvian-medialis
+103    lh_OC_SSP          LH_Occipital_Suprasylvian-posterior
+104    rh_OC_SSP          RH_Occipital_Suprasylvian-posterior
+105    lh_OC_SSV          LH_Occipital_Suprasylvian-ventralis
+106    rh_OC_SSV          RH_Occipital_Suprasylvian-ventralis
+107    lh_OC_ZA           LH_Occipital_Pararecurrens-anterior
+108    rh_OC_ZA           RH_Occipital_Pararecurrens-anterior
+109    lh_OC_ZL           LH_Occipital_Pararecurrens-lateralis
+110    rh_OC_ZL           RH_Occipital_Pararecurrens-lateralis
+111    lh_OC_ZM           LH_Occipital_Pararecurrens-medialis
+112    rh_OC_ZM           RH_Occipital_Pararecurrens-medials
+113    lh_PR_BAL          LH_Parietal_Entolateralis-anterior-lateralis
+114    rh_PR_BAL          RH_Parietal_Entolateralis-anterior-lateralis
+115    lh_PR_BA           LH_Parietal_Entolateralis-anterior
+116    rh_PR_BA           RH_Parietal_Entolateralis-anterior
+117    lh_PR_FA           LH_Parietal_Fissure-ansata
+118    rh_PR_FA           RH_Parietal_Fissure-ansata
+119    lh_PR_FBA          LH_Parietal_Fissure-entolateralis-pars-anterior
+120    rh_PR_FBA          RH_Parietal_Fissure-entolateralis-pars-anterior
+121    lh_PR_FLP          LH_Parietal_Fissure-lateralis-Parietal
+122    rh_PR_FLP          RH_Parietal_Fissure-lateralis-Parietal
+123    lh_PR_FN           LH_Parietal_Fissure-suprasplenialis
+124    rh_PR_FN           RH_Parietal_Fissure-suprasplenialis
+125    lh_PR_FSPL         LH_Parietal_Fissure-presylviae-lateralis
+126    rh_PR_FSPL         RH_Parietal_Fissure-presylviae-lateralis
+127    lh_PR_KPL          LH_Parietal_Coronalis-posterior-lateralis
+128    rh_PR_KPL          RH_Parietal_Coronalis-posterior-lateralis
+129    lh_PR_KPM          LH_Parietal_Coronalis-posterior-medialis
+130    rh_PR_KPM          RH_Parietal_Coronalis-posterior-medialis
+131    lh_PR_KP           LH_Parietal_Coronalis-posterior
+132    rh_PR_KP           RH_Parietal_Coronalis-posterior
+133    lh_PR_MA           LH_Parietal_Marginalis-anterior
+134    rh_PR_MA           RH_Parietal_Marginalis-anterior
+135    lh_PR_ML           LH_Parietal_Marginalis-lateralis
+136    rh_PR_ML           RH_Parietal_Marginalis-lateralis
+137    lh_PR_ND           LH_Parietal_Presplenialis-dorsalis
+138    rh_PR_ND           RH_Parietal_Presplenialis-dorsalis
+139    lh_PR_NV           LH_Parietal_Presplenialis-ventralis
+140    rh_PR_NV           RH_Parietal_Presplenialis-ventralis
+141    lh_PR_QA           LH_Parietal_Ectolateralis-anterior
+142    rh_PR_QA           RH_Parietal_Ectolateralis-anterior
+143    lh_PR_SSm          LH_Parietal_Suprasylvian-accessoria
+144    rh_PR_SSm          RH_Parietal_Suprasylvian-accessoria
+145    lh_PS_CPL-I        LH_Temporal_Composita-posterior-lateralis-I
+146    rh_PS_CPL-I        RH_Temporal_Composita-posterior-lateralis-I
+147    lh_PS_CPM          LH_Temporal_Composita-medialis-I
+148    rh_PS_CPM          RH_Temporal_Composita-medialis-I
+149    lh_PS_Cl           LH_Temporal_Claustrum
+150    rh_PS_Cl           RH_Temporal_Claustrum
+151    lh_PS_EAc          LH_Temporal_Ectosylvia-accessoria
+152    rh_PS_EAc          RH_Temporal_Ectosylvia-accessoria
+153    lh_PS_ED-II        LH_Temporal_Paraectosylvia-dorsalis-II
+154    rh_PS_ED-II        RH_Temporal_Paraectosylvia-dorsalis-II
+155    lh_PS_EM           LH_Temporal_Ectosylvia-medialis
+156    rh_PS_EM           RH_Temporal_Ectosylvia-medialis
+157    lh_PS_EP-I         LH_Temporal_Ectosylvia-posterior-I
+158    rh_PS_EP-I         RH_Temporal_Ectosylvia-posterior-I
+159    lh_PS_EV           LH_Temporal_Paraectosylvia-ventralis
+160    rh_PS_EV           RH_Temporal_Paraectosylvia-ventralis
+161    lh_PS_FE           LH_Temporal_Fissure-ectosylvia
+162    rh_PS_FE           RH_Temporal_Fissure-ectosylvia
+163    lh_PS_FS           LH_Temporal_Fissure-sylvia
+164    rh_PS_FS           RH_Temporal_Fissure-sylvia
+165    lh_PS_SD           LH_Temporal_Sylvia-insularis
+166    rh_PS_SD           RH_Temporal_Sylvia-insularis
+167    lh_PS_SJ           LH_Temporal_Parasylvian-dorsalis
+168    rh_PS_SJ           RH_Temporal_Parasylvian-dorsalis
+169    lh_PS_S            LH_Temporal_Sylvia  
+170    rh_PS_S            RH_Temporal_Sylvia  
+171    lh_SM_CA           LH_Sensory-motor_Composita-anterior
+172    rh_SM_CA           RH_Sensory-motor_Composita-anterior
+173    lh_SM_CE           LH_Sensory-motor_Composita-ectosylvia
+174    rh_SM_CE           RH_Sensory-motor_Composita-ectosylvia
+175    lh_SM_CJ           LH_Sensory-motor_Composita-interna
+176    rh_SM_CJ           RH_Sensory-motor_Composita-interna
+177    lh_SM_CSL          LH_Sensory-motor_Composita-signmoidea-lateralis
+178    rh_SM_CSL          RH_Sensory-motor_Composita-signmoidea-lateralis
+179    lh_SM_CS           LH_Sensory-motor_Composita-sigmoid
+180    rh_SM_CS           RH_Sensory-motor_Composita-sigmoid
+181    lh_SM_CX           LH_Sensory-motor_Composita-precruciata
+182    rh_SM_CX           RH_Sensory-motor_Composita-precruciata
+183    lh_SM_C            LH_Sensory-motor_Centralis
+184    rh_SM_C            RH_Sensory-motor_Centralis
+185    lh_SM_FK           LH_Sensory-motor_Fissure-coronalis
+186    rh_SM_FK           RH_Sensory-motor_Fissure-coronalis
+187    lh_SM_FPG          LH_Sensory-motor_Fissure-pregenualis
+188    rh_SM_FPG          RH_Sensory-motor_Fissure-pregenualis
+189    lh_SM_FPS          LH_Sensory-motor_Fissure-presylviae
+190    rh_SM_FPS          RH_Sensory-motor_Fissure-presylviae
+191    lh_SM_FSSM         LH_Sensory-motor_Fissure-splenialis-SM
+192    rh_SM_FSSM         RH_Sensory-motor_Fissure-splenialis-SM
+193    lh_SM_KA           LH_Sensory-motor_Coronalis-anterior
+194    rh_SM_KA           RH_Sensory-motor_Coronalis-anterior
+195    lh_SM_KM           LH_Sensory-motor_Coronalis-medialis
+196    rh_SM_KM           RH_Sensory-motor_Coronalis-medialis
+197    lh_SM_PoC          LH_Sensory-motor_Postcentralis-I
+198    rh_SM_PoC          RH_Sensory-motor_Postcentralis-I
+199    lh_SM_PrC-I-II     LH_Sensory-motor_Precentralis-I-II
+200    rh_SM_PrC-I-II     RH_Sensory-motor_Precentralis-I-II
+201    lh_SM_PrC-III      LH_Sensory-motor_Precentralis-III
+202    rh_SM_PrC-III      RH_Sensory-motor_Precentralis-III
+203    lh_SM_PrCJ         LH_Sensory-motor_Precentralis-interna
+204    rh_SM_PrCJ         RH_Sensory-motor_Precentralis-interna
+205    lh_SM_PrCL         LH_Sensory-motor_Precentral-lateralis
+206    rh_SM_PrCL         RH_Sensory-motor_Precentral-lateralis
+207    lh_SM_XC           LH_Sensory-motor_Precruciata-centralis
+208    rh_SM_XC           RH_Sensory-motor_Precruciata-centralis
+209    lh_SM_XL           LH_Sensory-motor_Precruciata-lateralis
+210    rh_SM_XL           RH_Sensory-motor_Precruciata-lateralis
+211    lh_SM_XM-II        LH_Sensory-motor_Precruciata-medialis-II
+212    rh_SM_XM-II        RH_Sensory-motor_Precruciata-medialis-II
+213    lh_SM_XM-I         LH_Sensory-motor_Precruciata-medialis-I
+214    rh_SM_XM-I         RH_Sensory-motor_Precruciata-medialis-I
+215    lh_SM_XP           LH_Sensory-motor_Precruciata-posterior
+216    rh_SM_XP           RH_Sensory-motor_Precruciata-posterior
+217    lh_SUB_Amyg        LH_Subcortical_Amygdala
+218    rh_SUB_Amyg        RH_Subcortical_Amygdala
+219    lh_SUB_CaudN       LH_Subcortical_Caudate-nucleus
+220    rh_SUB_CaudN       RH_Subcortical_Caudate-nucleus
+221    lh_SUB_CdColl      LH_Subcortical_Caudal-colliculus
+222    rh_SUB_CdColl      RH_Subcortical_Caudal-colliculus
+223    lh_SUB_Cere        LH_Subcortical_Cerebellum
+224    rh_SUB_Cere        RH_Subcortical_Cerebellum
+225    lh_SUB_Hippo       LH_Subcortical_Hippocampus
+226    rh_SUB_Hippo       RH_Subcortical_Hippocampus
+227    lh_SUB_LatGen      LH_Subcortical_Lateral-geniculate
+228    rh_SUB_LatGen      RH_Subcortical_Lateral-geniculate
+229    lh_SUB_MedGen      LH_Subcortical_Medial-geniculate
+230    rh_SUB_MedGen      RH_Subcortical_Medial-geniculate
+231    lh_SUB_Olf         LH_Subcortical_Olfactory-bulb
+232    rh_SUB_Olf         RH_Subcortical_Olfactory-bulb
+233    lh_SUB_RostColl    LH_Subcortical_Rostral-colliculus
+234    rh_SUB_RostColl    RH_Subcortical_Rostral-colliculus
