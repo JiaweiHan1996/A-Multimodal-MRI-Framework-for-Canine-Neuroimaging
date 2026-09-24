@@ -37,7 +37,7 @@ Then, running the  `VBM\\\_DB\\\_pipeline` function in MATLAB command window, an
 
 A `VBM\_\[yyyymmdd]T\[hhmmss]` folder will be generated in the same directory as the `DataFolder`, which contains, such as:
 
-&#x20;```text
+```text
 VBM\_20261001T093030/
 ├── data/
 │   └── \*.nii		% intermediate process nifti
